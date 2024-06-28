@@ -174,8 +174,6 @@ python3 bot.py
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/DeletedFromEarth)
-
 [Note To A So Called Dev](https://telegram.dog/subin_works/203): 
 
 Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
